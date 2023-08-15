@@ -1,6 +1,6 @@
 # Software Defect Prediction Project
 
-![Project Image](project_image.jpg) <!-- Replace with an image representing your project -->
+<!--![Project Image](project_image.jpg) <!-- Replace with an image representing your project -->
 
 ## Table of Contents
 
@@ -69,3 +69,7 @@ The project employs various evaluation metrics:
    ```sh
    git clone https://github.com/yourusername/software-defect-prediction.git
    ```
+2. Install Dependencies
+   ``` pip install -r requirements.txt ```
+3. Open each folder to access the main.ipynb fiels
+
